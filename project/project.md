@@ -1,6 +1,7 @@
 Module 9 Developing Data Products: Course Project
 ========================================================
-author: Syahrimi Hasbullah 
+author: Syahrimi Hasbullah
+
 date: 29 Januari 2016
 
 Project Detail

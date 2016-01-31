@@ -1,14 +1,13 @@
 # Assignment: Course Project: Shiny Application and Reproducible Pitch
 ## 1) Shiny Application
 
-- Write a shiny application with associated supporting documentation. 
-- The documentation should be thought of as whatever a user will need to get started using your application.
-- Deploy the application on Rstudio's shiny server
-- Share the application link by pasting it into the provided text box
-- Share your server.R and ui.R code on github
+- This apps will analyze the Air Pollution Index (API) readings of Banting (a district in Selangor, Malaysia) from 2013-2015   according to every months in each year. 
+
+- Select year and month by clicking on the 'Select Year' and 'Select Month' drop down buttons (on the left    panel) and the   program will return what you desired.
+
+- The apps can be viewed at https://sha7970.shinyapps.io/mod9DDP/
 
 ## 2) Reproducible Pitch Presentation
 
-- 5 slides to pitch our idea done in Slidify or Rstudio Presenter
-- Your presentation pushed to github or Rpubs
-- A link to your github or Rpubs presentation pasted into the provided text box
+- 5 slides presentation done using Rstudio Presenter
+- Presentation pushed to Rpubs (http://rpubs.com/sha7970/ddp)
